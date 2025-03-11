@@ -15,5 +15,5 @@ urlpatterns = [
     path("thanks",views.get_name, name="get_name"),
     path("contact",views.get_contact, name="get_contact"),
     path("showcontact",views.get_contact, name="get_contact"),
-   
+    #Comentario de prueba
 ]
